@@ -1,0 +1,66 @@
+C:\Users\acer\AppData\Local\Temporary Projects\OIU Student Registeration\bin\Debug\OIU Student Registeration.exe.config
+C:\Users\acer\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\bin\Debug\OIU Student Registeration.exe.config
+C:\Users\acer\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\bin\Debug\OIU Student Registeration.exe
+C:\Users\acer\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\bin\Debug\OIU Student Registeration.pdb
+C:\Users\acer\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\bin\Debug\OIU Student Registeration.xml
+C:\Users\acer\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Login.resources
+C:\Users\acer\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU Student Registeration.vbproj.GenerateResource.Cache
+C:\Users\acer\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU Student Registeration.exe
+C:\Users\acer\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU Student Registeration.xml
+C:\Users\acer\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU Student Registeration.pdb
+C:\Users\acer\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.About.resources
+C:\Users\acer\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Add.resources
+C:\Users\acer\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Delete.resources
+C:\Users\acer\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Loading.resources
+C:\Users\acer\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Main.resources
+C:\Users\acer\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Query.resources
+C:\Users\acer\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Search.resources
+C:\Users\acer\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Update.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New OIU Student Registeration\OIU Student Registeration\OIU Student Registeration\bin\Debug\OIU Student Registeration.exe.config
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New OIU Student Registeration\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU Student Registeration.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New OIU Student Registeration\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU Student Registeration.xml
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New OIU Student Registeration\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU Student Registeration.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New OIU Student Registeration\OIU Student Registeration\OIU Student Registeration\bin\Debug\OIU Student Registeration.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New OIU Student Registeration\OIU Student Registeration\OIU Student Registeration\bin\Debug\OIU Student Registeration.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New OIU Student Registeration\OIU Student Registeration\OIU Student Registeration\bin\Debug\OIU Student Registeration.xml
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New OIU Student Registeration\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.About.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New OIU Student Registeration\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Add.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New OIU Student Registeration\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Delete.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New OIU Student Registeration\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Loading.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New OIU Student Registeration\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Login.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New OIU Student Registeration\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Main.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New OIU Student Registeration\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New OIU Student Registeration\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Query.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New OIU Student Registeration\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Search.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New OIU Student Registeration\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU Student Registeration.vbproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\New OIU Student Registeration\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.SUpdate.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\bin\Debug\Resources\Student.mdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\bin\Debug\Resources\Login.mdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\bin\Debug\OIU Student Registeration.exe.config
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\bin\Debug\OIU Student Registeration.exe.manifest
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\bin\Debug\OIU Student Registeration.application
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\bin\Debug\OIU Student Registeration.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\bin\Debug\OIU Student Registeration.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\bin\Debug\OIU Student Registeration.xml
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\bin\Debug\CircularProgressBar.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\bin\Debug\WinFormAnimation.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\bin\Debug\CircularProgressBar.xml
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.About.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Add.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Delete.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Loading.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Logging_out.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Login.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Main.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Query.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.Search.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU_Student_Registeration.SUpdate.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU Student Registeration.vbproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU Student Registeration.exe.manifest
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU Student Registeration.application
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU Student Registeration.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU Student Registeration.xml
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU Student Registeration.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\OIU Student Registeration\OIU Student Registeration\obj\Debug\OIU Student Registeration.vbprojResolveAssemblyReference.cache
